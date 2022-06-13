@@ -2,3 +2,14 @@ https://public.tableau.com/app/profile/houphouet.olivier/viz/Co2_Incrasing1_Rate
 
 
 https://public.tableau.com/app/profile/houphouet.olivier/viz/Populatiuon/Dashboard1?publish=yes
+
+
+
+
+CONTENTS
+#1. Capture your data correctly
+#2. Conduct regular data audits
+#3. Contact your database often
+#4. Use data-cleansing software
+#5. Let customers make updates
+A few other tips:
